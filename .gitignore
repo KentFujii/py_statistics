@@ -1,4 +1,1 @@
-.local/
-.ipynb_checkpoints/
-.ipython/
-.config/
+.*/
